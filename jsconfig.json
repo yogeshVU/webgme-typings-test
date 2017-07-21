@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ES6"
+    },
+    "exclude": [
+        "node_modules/"
+    ],
+    "include": [
+        "app.js",
+        "node_modules/webgme/typings"
+    ]
+    
+
+}

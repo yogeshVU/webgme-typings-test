@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "webgme"
+        ]
+    },
+    "include": [
+        "app.js",
+        "node_modules/webgme/typings/"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
+}
