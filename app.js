@@ -9,6 +9,7 @@ var gmeConfig = require('./config'),
 
 webgme.addToRequireJsPaths(gmeConfig);
 
+
 myServer = new webgme.standaloneServer(gmeConfig);
 myServer.start(function () {
     console.log('server up');
