@@ -1,4 +1,5 @@
 // jshint node: true
+//@ts-check
 'use strict';
 process.chdir(__dirname);
 
